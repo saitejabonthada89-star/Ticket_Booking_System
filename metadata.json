@@ -1,0 +1,6 @@
+{
+  "name": "Ticket Booking & Seat Management System",
+  "description": "High-demand event ticketing platform with real-time visual seat maps, TTL seat-hold locks, automated waitlist reallocation on cancellations, and QR code tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
